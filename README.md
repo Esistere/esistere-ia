@@ -34,7 +34,8 @@ Per fornire un'esperienza pratica e immediata del nostro modulo di intelligenza 
 
 ### Prova la Demo su Colab
 
-- **Accesso alla Demo**: Clicca [qui](https://colab.research.google.com/drive/todo) per accedere al notebook di Colab che contiene la demo.
+- **Accesso alla Demo del modello**: Clicca [qui](https://colab.research.google.com/drive/1u1jX8mFWeUbSvv6Vp-oLjmrPxCB2eBpM?usp=sharing) per accedere al notebook di Colab che contiene la demo del modello.
+- **Accesso alla Demo di valutazione**: Clicca [qui](https://colab.research.google.com/drive/1_aIDyXtUukiNxX_5tFXsH51aqPSObTj5?usp=sharing) per accedere al notebook di Colab che permette di usare il modello per effettuare la valutazione.
 - **Istruzioni Passo-Passo**: Il notebook contiene istruzioni esplicative per ogni blocco di codice, con esempi e interpretazione dei risultati del modello.
 - **Feedback**: La tua esperienza e i tuoi feedback sono preziosi per noi. Dopo aver provato la demo, ti invitiamo a condividere i tuoi pensieri e suggerimenti per migliorare ulteriormente il nostro servizio.
 
